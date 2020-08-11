@@ -1,4 +1,4 @@
-# five-stage-pipeline
+# Five-stage-pipeline
 
 Designed implementation and testing of the five stages (Instruction Fetch, Instruction
 Decode, Instruction Execute, Memory, Write back) of the five-stage pipelined CPU using the Xilinx design package for
@@ -24,3 +24,4 @@ registers are updated at the end of the cycle (the destination register is consi
 Then the first instruction is committed. In each of the forth coming clock cycles, an instruction will be commited
 and a new instruction will enter the pipeline
 
+![Pipeline](https://i1.wp.com/www.ankitcodinghub.com/wp-content/uploads/2018/10/605.png?w=980&ssl=1)
